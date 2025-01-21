@@ -1,3 +1,12 @@
 body {
-    color: aqua;
+    color: black;
+    background-color: aquamarine;
 }
+
+.main-menu {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+  }
